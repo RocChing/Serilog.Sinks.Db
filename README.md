@@ -25,4 +25,6 @@ Serilog.Sinks.Db 是 Serilog 写入数据库的支持组件
                .CreateLogger();
 
             logger.Information("Test log for {@User}, {@Name}, {@Age}", new User(1, 20, "Roc"), "chengpeng", 20);
+            
+需要自定义类 实现 IDbSinkCore 和 ITableCreator 就可以了
 

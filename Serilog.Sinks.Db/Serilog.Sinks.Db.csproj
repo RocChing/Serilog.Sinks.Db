@@ -6,9 +6,9 @@
     <Authors>Roc</Authors>
     <Company>Pactera</Company>
     <Description>Serilog.Sinks.Db</Description>
-    <AssemblyVersion>1.0.4.0</AssemblyVersion>
-    <FileVersion>1.0.4.0</FileVersion>
-    <Version>1.0.4</Version>
+    <AssemblyVersion>1.0.5.0</AssemblyVersion>
+    <FileVersion>1.0.5.0</FileVersion>
+    <Version>1.0.5</Version>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>支持sql server,mysql数据库写入</PackageReleaseNotes>
   </PropertyGroup>

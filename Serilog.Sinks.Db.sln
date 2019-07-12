@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.Db", "Serilog.Sinks.Db\Serilog.Sinks.Db.csproj", "{E715EECE-0702-4540-9E2A-1380E5EF72E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.Db.Test", "Serilog.Sinks.Db.Test\Serilog.Sinks.Db.Test.csproj", "{7DD85C8E-E44F-48E1-94CF-A51F2518F210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E715EECE-0702-4540-9E2A-1380E5EF72E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E715EECE-0702-4540-9E2A-1380E5EF72E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E715EECE-0702-4540-9E2A-1380E5EF72E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E715EECE-0702-4540-9E2A-1380E5EF72E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD85C8E-E44F-48E1-94CF-A51F2518F210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD85C8E-E44F-48E1-94CF-A51F2518F210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD85C8E-E44F-48E1-94CF-A51F2518F210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD85C8E-E44F-48E1-94CF-A51F2518F210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B168D1BE-B8B1-419B-8376-1D3F3791A407}
+	EndGlobalSection
+EndGlobal
